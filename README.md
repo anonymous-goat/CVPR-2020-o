@@ -11,7 +11,7 @@ This repo contains the code relating to the paper submitted to CVPR 2020 (Paper 
     <th>Prediction</th>
   </tr>
   <tr>
-    <th><img src=https://github.com/anonymous-goat/ICCV-2019/blob/master/imgs/sample_1.jpg width=960></th>
+    <th><img src=imgs/sample_1.jpg width=960></th>
     <th><img src=https://github.com/anonymous-goat/ICCV-2019/blob/master/imgs/sample_1.gif width=960></th>
   </tr>
   <tr>
